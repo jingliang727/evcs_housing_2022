@@ -1,0 +1,21 @@
+var1,estimates,panel,standard_error
+Vicinity 0-0.1 km ,-.025,panel_a,.056
+Vicinity 0.1-0.2 km,.022,panel_a,.029
+Vicinity 0.2-0.3 km,.046,panel_a,.02
+Vicinity 0.3-0.4 km,.078,panel_a,.017
+Vicinity 0.4-0.5 km,.082,panel_a,.016
+Vicinity 0.5-0.6 km,.076,panel_a,.015
+Vicinity 0.6-0.7 km,.061,panel_a,.015
+Vicinity 0.7-0.8 km,.067,panel_a,.014
+Vicinity 0.8-0.9 km,.052,panel_a,.014
+Vicinity 0.9-1km,.05,panel_a,.015
+Vicinity 0-0.1 km ,-.063,panel_b,.053
+Vicinity 0.1-0.2 km,-.009,panel_b,.028
+Vicinity 0.2-0.3 km,.018,panel_b,.019
+Vicinity 0.3-0.4 km,.052,panel_b,.016
+Vicinity 0.4-0.5 km,.058,panel_b,.014
+Vicinity 0.5-0.6 km,.056,panel_b,.013
+Vicinity 0.6-0.7 km,.043,panel_b,.013
+Vicinity 0.7-0.8 km,.049,panel_b,.013
+Vicinity 0.8-0.9 km,.035,panel_b,.012
+Vicinity 0.9-1km,.033,panel_b,.013
